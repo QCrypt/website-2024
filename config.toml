@@ -1,0 +1,76 @@
+# publishDir = "docs"
+
+# baseURL = "https://competent-nightingale-85ae87.netlify.com/"
+languageCode = "en"
+title = "QCrypt 2023"
+
+# Theme
+theme = "devfest-theme-hugo"
+
+# Params
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+GoogleAnalytics = "G-221GMGECQ6"
+
+[params]
+    title = "QCrypt 2023"
+    date = "2023-08-14"
+    description = "13th International Conference on Quantum Cryptography, organized from University of Maryland, College Park, MD, USA, 14 - 18 August 2023"
+    images = ["/images/social-share.jpg"]
+    email = "2023@qcrypt.net"
+    keywords = "event, quantum cryptography, QCrypt, University of Maryland, Maryland"
+    copyright = "We :heart: sheep"
+    copyright_link = "https://github.com/QCrypt/website-2023"
+    # cfpUrl = ""
+    # subscriptionUrl = ""
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#086788"
+
+[params.logos]
+    jumbo = "/images/logos/QuCrC23_Logo.png"
+    header = "/images/logos/QuCrC23_Logo.png"
+    footer = "/images/logos/netlify-color-accent.svg"
+    footer_link = "https://www.netlify.com"
+
+[menu]
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "us"
+
+[taxonomies]
+    tag = "tags"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy]
+    [privacy.disqus]
+        disable = true
+    [privacy.googleAnalytics]
+        anonymizeIP = false
+        disable = false
+        respectDoNotTrack = false
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = true
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = false
+        simple = false
+    [privacy.vimeo]
+        disable = true
+        simple = false
+    [privacy.youtube]
+        disable = true
+        privacyEnhanced = true
