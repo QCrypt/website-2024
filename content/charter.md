@@ -103,6 +103,7 @@ QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial 
 |2020 |online from Amsterdam | Gorjan Alagic, Marcos Curty, Serge Fehr, Stacey Jeffery, Christoph Marquardt, Akihisa Tomita, Hugo Zbinden, Qiang Zhang (chair)
 |2021 |online from Amsterdam | Gorjan Alagic, Marco Lucamarini, Serge Fehr, Stacey Jeffery, Christoph Marquardt (chair), Akihisa Tomita, Feihu Xu, Hugo Zbinden
 |2022 | Taiwan | Gorjan Alagic (chair), Kai-Min Chung, Serge Fehr, Stacey Jeffery, Qian Li, Marco Lucamarini, Christoph Marquardt, Feihu Xu
+|2023 | Maryland | Gorjan Alagic, Rotem Arnon-Friedman, Kai-Min Chung, Serge Fehr (chair), Qian Li, Marco Lucamarini, Christoph Marquardt, Feihu Xu
 
 ### Student Paper Prizes
 In some years, there are two winning papers selected, one in theory, one in experiment.
@@ -126,6 +127,8 @@ In some years, there are two winning papers selected, one in theory, one in expe
 |2021 Amsterdam | experiment | Likang Zhang | High-rate quantum key distribution with silicon photonics |  [video](https://www.youtube.com/watch?v=MFyicCNBmeg)
 |2022 Taiwan | theory | Tony Metger | Generalized entropy accumulation for quantum cryptography | [video](https://www.youtube.com/watch?v=eCciWKyZZkw)
 |2022 Taiwan | experiment |  Fadri Grünenfelder | Towards 100 Mbps secret key rate QKD | [video](https://www.youtube.com/watch?v=OMqxyHWbchs)
+|2023 Maryland | theory | James Bartusek | Obfuscation of Pseudo-Deterministic Quantum Circuits | 
+|2023 Maryland | experiment |  Joseph Dolphin | The Application of Hybrid Photonic Integration to Quantum Key Distribution | 
 
 
 
@@ -141,6 +144,11 @@ Some editions of QCrypt features best-poster awards, sometimes awarded per poste
 |2017 Cambridge | Lev Vaidman | Cupjin Huang and Yaoyun Shi
 |2018 Shanghai | Shiyu Wang | Yingqiu Mao
 
+
+### 2023
+<a href="http://2023.qcrypt.net/" title="Website" target="_blank">
+	<img src="/images/conferences/2023.png" width="800"/>
+</a>
 
 ### 2022
 <a href="http://2022.qcrypt.net/" title="Website" target="_blank">
