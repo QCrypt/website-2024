@@ -6,7 +6,7 @@ menu:
 
 type: team
 layout: list_with_header
-draft: false
+draft: True
 ---
 
 <!-- To make all this possible, these people are working behind the scenes. -->

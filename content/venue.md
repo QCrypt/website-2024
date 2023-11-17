@@ -1,7 +1,7 @@
 ---
 title: Venues
 
-draft: false
+draft: true
 type: text_page
 ---
 
