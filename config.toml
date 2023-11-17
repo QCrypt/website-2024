@@ -2,7 +2,7 @@
 
 # baseURL = "https://competent-nightingale-85ae87.netlify.com/"
 languageCode = "en"
-title = "QCrypt 2023"
+title = "QCrypt 2024"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -15,14 +15,14 @@ enableMissingTranslationPlaceholders = true
 GoogleAnalytics = "G-221GMGECQ6"
 
 [params]
-    title = "QCrypt 2023"
-    date = "2023-08-14"
-    description = "13th International Conference on Quantum Cryptography, organized from University of Maryland, College Park, MD, USA, 14 - 18 August 2023"
+    title = "QCrypt 2024"
+    date = "2024-09-02"
+    description = "14th International Conference on Quantum Cryptography, organized by University of Vigo, 2-6 September 2024"
     images = ["/images/social-share.jpg"]
-    email = "2023@qcrypt.net"
+    email = "2024@qcrypt.net"
     keywords = "event, quantum cryptography, QCrypt, University of Maryland, Maryland"
     copyright = "We :heart: sheep"
-    copyright_link = "https://github.com/QCrypt/website-2023"
+    copyright_link = "https://github.com/QCrypt/website-2024"
     # cfpUrl = ""
     # subscriptionUrl = ""
     appleTouchIcon = "/apple-touch-icon.png"
