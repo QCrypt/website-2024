@@ -5,7 +5,7 @@ menu:
     weight: -1
 ---
 <!-- JUMBO -->
-{{% jumbo img="/images/backgrounds/umd1.jpg" imgLabel="QCrypt 2022 background" %}}
+{{% jumbo img="/images/backgrounds/vigo_test.jpg" imgLabel="QCrypt 2022 background" %}}
 
 ## 2-6 September 2024
 
@@ -46,17 +46,17 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 {{% /home-info %}}
 
 {{% home-tickets %}}
-<
+
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE -->
 {{% /home-tickets %}}
 
 <!-- THE MAP -->
 {{% home-location
-    image="https://brandportal.umd.edu/m/201095fc65e15cf6/Hero_web-IribeCenter_JC_09182019_8325-tif.jpg"
-    address="Brendan Iribe Center for Computer Science and Engineering, University of Maryland, 8125 Paint Branch Drive, College Park, MD, USA 20742"
-    latitude="38.98928161543911"
-    longitude="-76.9361273795895"
+    image="/images/backgrounds/afundation_venue.jpg"
+    address="Sede Afundación Vigo Rúa Policarpo Sanz, 24, 26, Santiago de Vigo, 36202 Vigo, Pontevedra"
+    latitude="42.237410"
+    longitude="-8.722420"
     %}}
 
 ## The 2024 venue
@@ -64,15 +64,29 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 {{% /home-location %}}
 
 
-{{% partners categories="gold,silver,bronze,community" %}}
+<!--{{% partners categories="gold,silver,bronze,community" %}}-->
+
+## <strong>Key Dates QCrypt 2024 (TBC)</strong>
+|Date |Event|
+|:----|:----|
+| 27 March 2024  | <!-- <a href="https://hotcrp.science.uva.nl/" target="_blank"> -->  Talk submission opens|
+| Wed, 12 April 2024, 16:00 CET  |  Talk submission deadline |
+| Wed, 3 May - Tue, 08 August 2024 |  Registration opens |
+| Wed, 21 June 2024| Talk acceptance notification |
+|Thu, 22 June 2024| Poster submission opens|
+|Fri, 30 June 2024, 16:00 CET|Poster submission deadline|
+|Sat, 8 July 2024| Poster acceptance notification|
+|Sat, 15 July 2024| Early bird rate deadline|
+|Tue, 08 August 2024| Registration deadline|
+|<strong>Mon, 14 - Fri, 18 August 2024 </strong>| <strong>QCrypt 2024</strong>|
 
 ## Sponsors
 
-{{% partners categories="gold,silver,community" %}}
+<!--{{% partners categories="gold,silver,community" %}}
 
-{{% /partners %}}
+{{% /partners %}}-->
 
-QCrypt 2024 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="2024@qcrypt.net" url="mailto:2023@qcrypt.net?subject=Sponsorship Enquiry" icon="email" >}} 
+QCrypt 2024 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="2024@qcrypt.net" url="mailto:2024@qcrypt.net?subject=Sponsorship Enquiry" icon="email" >}} 
 
 <!-- {{% /partners %}} -->
 

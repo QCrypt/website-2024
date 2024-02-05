@@ -5,7 +5,7 @@ menu:
     weight: 60
 
 type: text_page
-draft: false
+draft: true
 ---
 
 

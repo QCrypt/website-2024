@@ -1,6 +1,6 @@
 @charset "UTF-8";
 :root {
-  --primary: #0099cc;
+  --primary: #ac191c;
   --primary-txt: #fff;
   --primary-link: #4c9cde;
   --accent: grey;
@@ -1266,8 +1266,7 @@ form input {
 .page.partners .header {
   display: grid;
   grid-template-columns: auto 1fr;
-  grid-template-areas: "logo title"
- "logo website";
+  grid-template-areas: "logo title" "logo website";
   align-items: center; }
   .page.partners .header .card {
     grid-area: logo;
