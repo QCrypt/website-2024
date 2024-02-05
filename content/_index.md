@@ -51,15 +51,15 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 |Date |Event|
 |:----|:----|
 | 27 March 2024  | <!-- <a href="https://hotcrp.science.uva.nl/" target="_blank"> -->  Talk submission opens|
-| Wed, 12 April 2024, 16:00 CET  |  Talk submission deadline |
-| Wed, 3 May - Tue, 08 August 2024 |  Registration opens |
-| Wed, 21 June 2024| Talk acceptance notification |
-|Thu, 22 June 2024| Poster submission opens|
-|Fri, 30 June 2024, 16:00 CET|Poster submission deadline|
-|Sat, 8 July 2024| Poster acceptance notification|
+| Tue, 16 April 2024, 16:00 CET  |  Talk/Poster submission deadline |
+| Wed, 1 May - Tue, 08 August 2024 |  Registration opens |
+| Mon, 17 June 2024| Talk acceptance notification |
+|Tue, 18 June 2024| Poster-only submission opens|
+|Fri, 21 June 2024, 16:00 CET|Poster-only submission deadline|
+|Thu, 27 June 2024| Poster-only acceptance notification|
 |Sat, 15 July 2024| Early bird rate deadline|
 |Tue, 08 August 2024| Registration deadline|
-|<strong>Mon, 14 - Fri, 18 August 2024 </strong>| <strong>QCrypt 2024</strong>|
+|<strong>Mon, 2 - Fri, 6 Sept 2024 </strong>| <strong>QCrypt 2024</strong>|
 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE -->
