@@ -17,20 +17,22 @@ Our poster is now available! Please <a href="/poster">download and print it your
 </a>
 -->
 
-## <strong>Key Dates QCrypt 2024 (all times 23:59 AoE)</strong>
+## <strong>Key Dates QCrypt 2024</strong> 
+<strong>(all times 23:59 AoE)</strong>
 
 |Date |Event|
 |:----|:----|
-|March 2024  | <!-- <a href="https://hotcrp.science.uva.nl/" target="_blank"> -->  Talk submission opens|
 | Tue, 16 April 2024|  Talk/Poster submission deadline |
+| Tue, 30 April 2024|  Early poster notification* |
 | Wed, 1 May 2024 |  Registration opens |
 | Tue, 18 June 2024|Poster-only submission deadline|
 | Wed, 26 June 2024| Talk acceptance notification |
-| June 2024| Poster-only submission opens|
 | Fri, 28 June 2024| Poster-only acceptance notification|
 | Fri, 5 July 2024| Early bird rate deadline|
 | Fri, 9 August 2024| Registration deadline|
 |<strong>Mon, 2 - Fri, 6 Sept 2024 </strong>| <strong>QCrypt 2024</strong>|
+
+\* The intention of the early poster notification is to facilitate logistics related to registration and travel authorizations. Submissions accepted at this stage will continue through the talk selection process.
 
 <!--## Call for Rump Session Submissions
 Have a breakthrough result or an amusing quantum cryptography anecdote? Share it at the QCrypt 2023 Rump Session! Submit your proposal before the early submission deadline on Tuesday, August 15, 11:30 a.m. to secure your spot. {{< button-link label="Learn More" url="https://2023.qcrypt.net/sessions/rump/" icon="" >}}
@@ -41,7 +43,7 @@ Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmr
 -->
 ## Goal of the Conference
 
-QCRYPT is a conference for students and researchers who work on quantum cryptography, broadly defined. We invite research contributions on the possibilities and limitations of quantum methods for secure communication and computation. (Research on classical post-quantum cryptography is considered to be within scope if it makes innovative use of quantum information concepts.) QCRYPT features both experimental and theoretical talks.
+QCrypt is a conference for students and researchers who work on quantum cryptography, broadly defined. We invite research contributions on the possibilities and limitations of quantum methods for secure communication and computation. (Research on classical post-quantum cryptography is considered to be within scope if it makes innovative use of quantum information concepts.) QCrypt features both experimental and theoretical talks.
 
 ## Contributed Talks and Posters
 
@@ -60,6 +62,8 @@ All submissions should be in PDF (Portable Document Format). An extended abstrac
 For a “poster only” submission, a one-page non-technical description is sufficient as an extended abstract.
 
 The extended abstract may refer to technical details which are presented elsewhere. In particular, authors may include citations to a full version of the paper that is either published, available on arXiv.org or provided as an attachment (links to full versions on personal webpages are not accepted). This is strongly recommended for theory submissions to help the peer-review process. The extended abstract should not be a compressed version of the full-length paper.
+
+<strong>Submissions will be handled in EasyChair. A link to the submission server will appear here when the server is open.</strong>
 
 <!-- The submission server will be open soon. -->
 <!-- **The poster submission server is now available at: <a href="https://hotcrp.science.uva.nl/" target="_blank">https://hotcrp.science.uva.nl/</a>** -->

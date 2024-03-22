@@ -50,16 +50,17 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 ### <strong>Key Dates QCrypt 2024 (all times 23:59 AoE)</strong>
 |Date |Event|
 |:----|:----|
-| March 2024  | <!-- <a href="https://hotcrp.science.uva.nl/" target="_blank"> -->  Talk submission opens|
 | Tue, 16 April 2024|  Talk/Poster submission deadline |
+| Tue, 30 April 2024|  Early poster notification* |
 | Wed, 1 May 2024 |  Registration opens |
 | Tue, 18 June 2024|Poster-only submission deadline|
 | Wed, 26 June 2024| Talk acceptance notification |
-| June 2024| Poster-only submission opens|
 | Fri, 28 June 2024| Poster-only acceptance notification|
 | Fri, 5 July 2024| Early bird rate deadline|
 | Fri, 9 August 2024| Registration deadline|
 |<strong>Mon, 2 - Fri, 6 Sept 2024 </strong>| <strong>QCrypt 2024</strong>|
+
+\* The intention of the early poster notification is to facilitate logistics related to registration and travel authorizations. Submissions accepted at this stage will continue through the talk selection process.
 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE -->
@@ -70,7 +71,7 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 <!-- THE MAP -->
 {{% home-location
     image="/images/backgrounds/afundation_venue.jpg"
-    address="Sede Afundación Vigo Rúa Policarpo Sanz, 24, 26, Santiago de Vigo, 36202 Vigo, Pontevedra"
+    address="Sede Afundación Vigo, Rúa Policarpo Sanz, 24, 26, Santiago de Vigo, 36202 Vigo, Pontevedra"
     latitude="42.237410"
     longitude="-8.722420"
     %}}
