@@ -10,8 +10,8 @@ menu:
 ## 2-6 September 2024
 
 
-<a class="btn primary btn-lg" href="">
-    See you at QCrypt 2024!
+<a class="btn primary btn-lg" href="/call/">
+    Call for papers!
 </a>
 
 

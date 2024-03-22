@@ -70,7 +70,7 @@ Since 2011, QCrypt features a prize for the best student submission. A submissio
 ## Program Committee
 The program committee list can be found <a href="/team/#program-committee">here</a>.
 
-Please contact the PC chairs via email to {{< button-link label="2024@qcrypt.net" url="mailto:2024@qcrypt.net" icon="email" >}} with any questions.
+Please contact the PC chairs via email to {{< button-link label="pcchairs2024@qcrypt.net" url="mailto:pcchairs2024@qcrypt.net" icon="email" >}} with any questions.
 
 
 <!--
