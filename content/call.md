@@ -21,7 +21,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 
 |Date |Event|
 |:----|:----|
-| 27 March 2024  | <!-- <a href="https://hotcrp.science.uva.nl/" target="_blank"> -->  Talk submission opens|
+|March 2024  | <!-- <a href="https://hotcrp.science.uva.nl/" target="_blank"> -->  Talk submission opens|
 | Tue, 16 April 2024|  Talk/Poster submission deadline |
 | Wed, 1 May 2024 |  Registration opens |
 | Tue, 18 June 2024|Poster-only submission deadline|
