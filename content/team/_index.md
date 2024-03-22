@@ -6,7 +6,7 @@ menu:
 
 type: team
 layout: list_with_header
-draft: True
+draft: False
 ---
 
 <!-- To make all this possible, these people are working behind the scenes. -->
@@ -16,18 +16,13 @@ draft: True
 <!-- {{< teams types="core=Main Organizers,org=Organizers" >}} -->
 {{< teams types="core" >}}
 
-You can contact the Organizing Committee via email to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}
+You can contact the Organizing Committee via email to {{< button-link label="2024@qcrypt.net" url="mailto:2024@qcrypt.net" icon="email" >}}
 
 {{< teams types="org" >}}
 
 ### OC support
-* Chen Bai
-* Mel Coles
-* Daniele Degrandchamp
-* Kelly Hedgepeth
-* Lisa Press
-* Manasi Mangesh Shingane
-* Andrea Svejda
+* Lorena G. Curra
+
 
 ## Steering Committee
 
@@ -45,31 +40,35 @@ You can contact the Organizing Committee via email to {{< button-link label="202
 You can contact the PC chairs via email to {{< button-link label="pcchairs2023@qcrypt.net" url="mailto:pcchairs2023@qcrypt.net" icon="email" >}}<br>
 
 ### PC members
-* James Bartusek (UC Berkeley, US)
-* Mario Berta (RWTH Aachen University, DE)
-* Anne Broadbent (University of Ottawa, CAN)
-* Ivo Pietro Degiovanni (INRIM and EURAMET EMN-Q, IT)
-* Eleni Diamanti (CNRS and Sorbonne Université, FR)
-* Frederic Dupuis (Université de Montréal, CA)
-* Tobias Gehring (Technical University of Denmark, DK)
-* Christian Kurtsiefer (National University of Singapore, SG)
-* Paul Kwiat (University of Illinois Urbana-Champaign, US)
-* Alexander Ling (National University of Singapore, SG)
-* Charles Lim (JPMorgan Chase & Co., US/SG)
-* Yang Liu (Jinan Institute of Quantum Technology, CN)
-* Giulio Malavolta (Max Planck Institute for Security and Privacy, DE)
-* Carl Miller (NIST and University of Maryland, US)
-* Isaac Nape (University of the Witwatersrand, SA)
-* Stefano Pironio (Université libre de Bruxelles, BE)
-* Valerio Pruneri (ICFO and ICREA, ES)
-* Davide  Rusca (University of Vigo, ES)
-* Or Sattath (Ben-Gurion University, IL)
-* Fang Song (Portland State University, US)
-* Florian Speelman (University of Amsterdam, QuSoft, NL)
-* Marco Tomamichel (National University of Singapore, SG)
-* Dominique Unruh (University of Tartu, EE)
-* Vladyslav Usenko (Palacky University Olomouc, CZ)
-* Takashi Yamakawa (NTT Social Informatics Laboratories, JP)
-* Zhiliang Yuan (Beijing Academy of Quantum Information Sciences, CN)
-* Zheshen Zhang (University of Michigan, US)
 
+* Davide Bacco (University of Florence,IT)
+* Peter Brown (Télécom Paris, FR)
+* Andrea Coladangelo	(University of Washington, USA)
+* Eleni Diamanti	(CNRS and Sorbonne University, FR)
+* Mina Doosti (University of Edinburgh, UK)
+* Ehsan Ebrahimi (University of Luxembourg, LU) 
+* Omar Fawzi (Inria, ENS Lyon, FR)
+* Ronald Hanson (Delft University of Technology, NL)
+* Minki Hhan (KIAS, KR)
+* Thomas Jennewein (University of Waterloo, CA)
+* Dakshita Khurana (University of Illinois Urbana-Champaign, USA)
+* Philippe Lamontagne	(National Research Council Canada and Université de Montréal, CA)
+* Sheng-Kai Liao (University of Science and Technology of China, CN)
+* Joseph Lukens (Arizona State University, USA)
+* Xiongfeng Ma (Tsinghua University, CN)
+* Gláucia Murta (HHU Düsseldorf, DE)
+* Alexander Poremba (MIT, USA)
+* Mohsen Razavi (University of Leeds,	UK)
+* Omri Shmueli (Tel Aviv University,	IL)
+* Fang Song (Portland State University, USA)
+* Ivan Supic (Sorbonne University, FR)
+* Gelo Noel Tabia (Hon Hai Research Institute, TW)
+* Ernest Tan (University of Waterloo, CA)
+* Nino Walenta (Fraunhofer HHI, DE)
+* Ramona Wolf	(University of Siegen, DE)
+* Takashi Yamakawa (NTT Social Informatics Laboratories, JP)
+* Henry Yuen (Columbia, USA)
+* Hugo Zbinden (University of Geneva, CH)
+* Zheshen Zhang (University of Michigan, USA)
+* Jiayu Zhang (Zhongguancun Laboratory, CN)
+* Lai Zhou (Beijing Academy of Quantum Information Sciences, CN)

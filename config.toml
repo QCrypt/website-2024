@@ -33,8 +33,8 @@ GoogleAnalytics = "G-221GMGECQ6"
     themeColor = "#086788"
 
 [params.logos]
-    jumbo = "/images/logos/logo_test.png"
-    header = "/images/logos/logo_test.png"
+    jumbo = "/images/logos/logo_temp.png"
+    header = "/images/logos/logo_temp.png"
     footer = "/images/logos/netlify-color-accent.svg"
     footer_link = "https://www.netlify.com"
 
