@@ -2,7 +2,7 @@
 title: APS PRX Quantum
 type: partner
 draft: false
-category: gold
+category: old
 logo: /images/partners/PRXQ.png
 website: https://journals.aps.org/prxquantum/
 ---

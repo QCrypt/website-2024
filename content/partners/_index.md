@@ -5,7 +5,7 @@ menu:
     weight: 60
 
 type: text_page
-draft: true
+draft: false
 ---
 
 
@@ -25,7 +25,7 @@ We are grateful to our generous sponsors. With their contributions, they not onl
 
 ## Our Sponsors
 
-{{% partners categories="gold,silver,community" %}}
+{{% partners categories="gold,bronze" %}}
 
 {{% /partners %}}
 <!--

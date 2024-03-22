@@ -80,17 +80,16 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 {{% /home-location %}}
 
 
-<!--{{% partners categories="gold,silver,bronze,community" %}}-->
+{{% partners categories="gold,bronze" %}}
 
 
 
 ## Sponsors
 
-<!--{{% partners categories="gold,silver,community" %}}
+{{% partners categories="gold,bronze" %}}
 
-{{% /partners %}}-->
+<!--{{% /partners %}}-->
 
 QCrypt 2024 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="2024@qcrypt.net" url="mailto:2024@qcrypt.net?subject=Sponsorship Enquiry" icon="email" >}} 
 
-<!-- {{% /partners %}} -->
-
+{{% /partners %}}

@@ -65,7 +65,7 @@ The extended abstract may refer to technical details which are presented elsewhe
 <!-- **The poster submission server is now available at: <a href="https://hotcrp.science.uva.nl/" target="_blank">https://hotcrp.science.uva.nl/</a>** -->
 
 ## Student Paper Prize
-Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. <!--More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.-->
+Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.
 
 ## Program Committee
 The program committee list can be found <a href="/team/#program-committee">here</a>.

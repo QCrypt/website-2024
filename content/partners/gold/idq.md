@@ -2,7 +2,7 @@
 title: IDQuantique
 type: partner
 draft: false
-category: silver
+category: gold
 logo: /images/partners/idq.png
 website: https://www.idquantique.com/
 ---
