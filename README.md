@@ -1,4 +1,4 @@
-# QCrypt 2023 website
+# QCrypt 2024 website
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3b2d4f11-42a3-42fc-bbfc-1debed945d5e/deploy-status)](https://app.netlify.com/sites/qcrypt2023/deploys)
