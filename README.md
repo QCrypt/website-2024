@@ -1,9 +1,9 @@
 # QCrypt 2024 website
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3b2d4f11-42a3-42fc-bbfc-1debed945d5e/deploy-status)](https://app.netlify.com/sites/qcrypt2023/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d55bf01e-0ed4-4a50-848e-df4a68ef5f62/deploy-status)](https://app.netlify.com/sites/qcrypt2024/deploys)
 
-Live site at https://2023.qcrypt.net
+Live site at https://2024.qcrypt.net
 
 Using the Hugo template from https://github.com/GDGToulouse/devfest-theme-hugo
 adapted from the fork by the cloudnative-amsterdam people: https://github.com/cloudnative-amsterdam/public-website
