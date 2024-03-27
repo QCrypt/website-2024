@@ -41,7 +41,8 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2024@q
 
 ### PC members
 
-* Davide Bacco (University of Florence,IT)
+* Davide Bacco (University of Florence,IT )
+* Naresh Goud Boddu (NTT Research, CIS Lab USA)
 * Peter Brown (Télécom Paris, FR)
 * Andrea Coladangelo	(University of Washington, USA)
 * Eleni Diamanti	(CNRS and Sorbonne University, FR)
