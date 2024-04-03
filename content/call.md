@@ -22,6 +22,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 
 |Date |Event|
 |:----|:----|
+| April 2024| <strong><a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">TALK/POSTER SUBMISSION OPEN NOW</a></strong>|
 | Tue, 16 April 2024|  Talk/Poster submission deadline |
 | Tue, 30 April 2024|  Early poster notification* |
 | Wed, 1 May 2024 |  Registration opens |
@@ -35,7 +36,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 \* The intention of the early poster notification is to facilitate logistics related to registration and travel authorizations. Submissions accepted at this stage will continue through the talk selection process.
 
 <!--## Call for Rump Session Submissions
-Have a breakthrough result or an amusing quantum cryptography anecdote? Share it at the QCrypt 2023 Rump Session! Submit your proposal before the early submission deadline on Tuesday, August 15, 11:30 a.m. to secure your spot. {{< button-link label="Learn More" url="https://2023.qcrypt.net/sessions/rump/" icon="" >}}
+Have a breakthrough result or an amusing quantum cryptography anecdote? Share it at the QCrypt 2024 Rump Session! Submit your proposal before the early submission deadline on Tuesday, August 15, 11:30 a.m. to secure your spot. {{< button-link label="Learn More" url="https://2024.qcrypt.net/sessions/rump/" icon="" >}}
 -->
 
 <!--
@@ -63,10 +64,10 @@ For a “poster only” submission, a one-page non-technical description is suff
 
 The extended abstract may refer to technical details which are presented elsewhere. In particular, authors may include citations to a full version of the paper that is either published, available on arXiv.org or provided as an attachment (links to full versions on personal webpages are not accepted). This is strongly recommended for theory submissions to help the peer-review process. The extended abstract should not be a compressed version of the full-length paper.
 
-<strong>Submissions will be handled in EasyChair. A link to the submission server will appear here when the server is open.</strong>
+<!-- <strong>Submissions will be handled in EasyChair. A link to the submission server will appear here when the server is open.</strong> -->
 
 <!-- The submission server will be open soon. -->
-<!-- **The poster submission server is now available at: <a href="https://hotcrp.science.uva.nl/" target="_blank">https://hotcrp.science.uva.nl/</a>** -->
+**The submission server is now available at: <a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">https://easychair.org/conferences/?conf=qcrypt2024</a>** 
 
 ## Student Paper Prize
 Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.

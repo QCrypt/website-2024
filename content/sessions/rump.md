@@ -7,14 +7,14 @@ presentation: null
 draft: false
 ---
 
-📢 <strong> QCrypt 2023 Rump Session Talks </strong> 🚀
+📢 <strong> QCrypt 2024 Rump Session Talks </strong> 🚀
 
 <h3>Update: The Rump session theme is “We love turtles” ❤️🐢❤️</h3>
 <br>
 <br>
 Dear QCrypt Community,
 
-We are thrilled to announce the Call for Submissions to the QCrypt 2023 Rump Session Talks! The Rump Session is an integral part of the conference where attendees can showcase late-breaking results, innovative ideas, and fascinating developments in the field of quantum cryptography. This is your chance to take the stage, share your insights, and dazzle the audience with your brilliance!
+We are thrilled to announce the Call for Submissions to the QCrypt 2024 Rump Session Talks! The Rump Session is an integral part of the conference where attendees can showcase late-breaking results, innovative ideas, and fascinating developments in the field of quantum cryptography. This is your chance to take the stage, share your insights, and dazzle the audience with your brilliance!
 
 🎯 Talk Guidelines:
 - Duration: Each presentation should be short and sweet, lasting no more than 5 minutes. Concise and impactful presentations are key! And just a friendly reminder, going over the time limit might result in a harmless, yet creatively inconvenient consequence*.  
@@ -22,10 +22,10 @@ We are thrilled to announce the Call for Submissions to the QCrypt 2023 Rump Ses
 - Entertainment: While not mandatory, we strongly encourage you to add an entertaining element to your talk. Humor, creativity, and enthusiasm are more than welcome to captivate the audience and make your presentation memorable!
 
 🎉 Theme and Prizes:
-Stay tuned for an upcoming announcement revealing the thrilling theme of the QCrypt 2023 Rump Session Talks**! As a twist, we will be awarding prizes for the best and worst theme-related talk. Yes, you heard that right! Not only will the most outstanding and captivating presentation be rewarded, but we also want to celebrate a talk that takes a creative spin and perhaps hilariously misses the mark in an endearing way!
+Stay tuned for an upcoming announcement revealing the thrilling theme of the QCrypt 2024 Rump Session Talks**! As a twist, we will be awarding prizes for the best and worst theme-related talk. Yes, you heard that right! Not only will the most outstanding and captivating presentation be rewarded, but we also want to celebrate a talk that takes a creative spin and perhaps hilariously misses the mark in an endearing way!
 
 📧 How to Submit:
-To participate in the Rump Session, please submit your talk proposals via email to {{< button-link label="qcrypt2023rump@gmail.com" url="qcrypt2023rump@gmail.com" icon="email" >}} 
+To participate in the Rump Session, please submit your talk proposals via email to {{< button-link label="qcrypt2024rump@gmail.com" url="qcrypt2024rump@gmail.com" icon="email" >}} 
 <br>Remember to include the following details in your submission:
 - Your name and affiliation
 - Talk title
@@ -36,18 +36,18 @@ To participate in the Rump Session, please submit your talk proposals via email 
 - Early Submission Deadline: Tuesday, August 15, 11:30 a.m. 
 - Late Submission Deadline: anytime before the Rump Session ***
 - Acceptance Notifications: Tuesday evening
-- QCrypt 2023 Rump session: Thursday, August 17, 4:30 p.m.
+- QCrypt 2024 Rump session: Thursday, August 17, 4:30 p.m.
 
 The Rump Session is a fantastic opportunity to engage with the QCrypt community, showcase your talents, and inspire fellow researchers. We look forward to receiving your exciting submissions!
 
-See you at QCrypt 2023!
+See you at QCrypt 2024!
 
 <strong>Best regards,
 
 Anne Broadbent
 
-Rump Session Chair, QCrypt 2023
-(qcrypt2023rump@gmail.com) </strong>
+Rump Session Chair, QCrypt 2024
+(qcrypt2024rump@gmail.com) </strong>
 
 
 

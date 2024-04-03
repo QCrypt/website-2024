@@ -2,7 +2,7 @@
 title: QuSoft
 type: partner
 draft: false
-category: community
+category: old
 logo: /images/partners/qusoft.jpg
 website: http://www.qusoft.org
 ---

@@ -2,7 +2,7 @@
 title: Centrum Wiskunde & Informatica
 type: partner
 draft: false
-category: community
+category: old
 logo: /images/partners/cwi.png
 website: https://www.cwi.nl
 ---
