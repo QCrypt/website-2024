@@ -1,8 +1,8 @@
 ---
-title: Lim Ci Wen (Charles)
+title: Charles Lim
 surname: Lim
 type: steering
-subtitle: National University of Singapore/JPMorgan Chase & Co
+subtitle: JPMorgan Chase & Co
 job: SC member
 photo: charles_lim.jpg
 socials:

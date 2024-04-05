@@ -1,5 +1,5 @@
 ---
-title: Qian Li
+title: Li Qian
 surname: aaaLi
 type: steering
 subtitle: University of Toronto
