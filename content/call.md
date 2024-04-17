@@ -16,14 +16,15 @@ Our poster is now available! Please <a href="/poster">download and print it your
   <img height=300 id="dark_bg" src="/images/poster/QCryptPoster.png"/>
 </a>
 -->
+<!--| <strike> April 2024 </strike>| <strong><a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">TALK/POSTER SUBMISSION CLOSING SOON</a></strong>|-->
 
 ## <strong>Key Dates QCrypt 2024</strong> 
 <strong>(all times 23:59 AoE)</strong>
 
 |Date |Event|
 |:----|:----|
-| April 2024| <strong><a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">TALK/POSTER SUBMISSION CLOSING SOON</a></strong>|
-| Tue, 16 April 2024|  Talk/Poster submission deadline |
+| <strike> April 2024 </strike>| <strong> TALK SUBMISSION NOW CLOSED </strong>|
+| <strike> Tue, 16 April 2024 </strike>|  Talk/Poster submission deadline |
 | Tue, 30 April 2024|  Early poster notification* |
 | Wed, 1 May 2024 |  Registration opens |
 | Tue, 18 June 2024|Poster-only submission deadline|
@@ -67,7 +68,8 @@ The extended abstract may refer to technical details which are presented elsewhe
 <!-- <strong>Submissions will be handled in EasyChair. A link to the submission server will appear here when the server is open.</strong> -->
 
 <!-- The submission server will be open soon. -->
-**The submission server is now available at: <a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">https://easychair.org/conferences/?conf=qcrypt2024</a>** 
+**The submission server will  re-open soon for POSTER ONLY submissions.**
+<!--**The submission server is now available at: <a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">https://easychair.org/conferences/?conf=qcrypt2024</a>** -->
 
 ## Student Paper Prize
 Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.
