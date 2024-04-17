@@ -11,7 +11,7 @@ menu:
 
 
 <a class="btn primary btn-lg" href="https://easychair.org/conferences/?conf=qcrypt2024">
-    TALK/POSTER SUBMISSION OPEN NOW!
+    TALK/POSTER SUBMISSION CLOSING SOON (23:59 AoE)!
 </a>
 
 
@@ -50,7 +50,7 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 ### <strong>Key Dates QCrypt 2024 (all times 23:59 AoE)</strong>
 |Date |Event|
 |:----|:----|
-| April 2024| <strong><a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">TALK/POSTER SUBMISSION OPEN NOW</a></strong>|
+| April 2024| <strong><a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">TALK/POSTER SUBMISSION CLOSING SOON (23:59 AoE)</a></strong>|
 | Tue, 16 April 2024|  Talk/Poster submission deadline |
 | Tue, 30 April 2024|  Early poster notification* |
 | Wed, 1 May 2024 |  Registration opens |

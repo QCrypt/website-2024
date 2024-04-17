@@ -22,7 +22,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 
 |Date |Event|
 |:----|:----|
-| April 2024| <strong><a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">TALK/POSTER SUBMISSION OPEN NOW</a></strong>|
+| April 2024| <strong><a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">TALK/POSTER SUBMISSION CLOSING SOON</a></strong>|
 | Tue, 16 April 2024|  Talk/Poster submission deadline |
 | Tue, 30 April 2024|  Early poster notification* |
 | Wed, 1 May 2024 |  Registration opens |
