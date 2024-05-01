@@ -23,15 +23,15 @@ The venue for QCrypt2024 is the <a href="https://www.afundacion.org/es/centros/c
 
 
 <h2>Local Accommodations</h2>
-The local organizers and the university of Vigo found an agreement for special prices in different hotels of the city. 
-In order to access this deal pleas use the code <strong>QCRYPT 2024</strong> at the time of the registration.
+The local organizers and the University of Vigo have made an agreement with different hotels in the city to offer special (or discounted) prices. 
+In order to access this deal use the code <strong>QCRYPT 2024</strong> at the time of the registration.
 Moreover:
 
-• We recommend making your accommodation reservation as soon as possible to avoid high prices or NO availability situations.
+• We recommend reserving your accommodation as soon as possible to avoid high prices or lack of availability.
 
 • Please keep in mind and always check the cancellation policy when making your reservation.
 
-• Reservations will be made and paid directly with each hotel so that the advantages of Qcrypt 2024 are applicable.
+• Reservations should be made and paid directly to the hotel so that the discount provided is applicable.
 
 
 |Name |Walking distance to the Venue|
