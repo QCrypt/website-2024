@@ -10,8 +10,8 @@ menu:
 ## 2-6 September 2024
 
 
-<a class="btn primary btn-lg" >
-    TALK SUBMISSION NOW CLOSED!
+<a class="btn primary btn-lg" href="/registration/">
+    REGISTRATION IS NOW OPEN!
 </a>
 
 
@@ -52,8 +52,8 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 |:----|:----|
 | <strike> April 2024 </strike>|<strong> TALK SUBMISSION NOW CLOSED </strong>|
 | <strike> Tue, 16 April 2024 </strike>|  Talk/Poster submission deadline |
-| Tue, 30 April 2024|  Early poster notification* |
-| Wed, 1 May 2024 |  Registration opens |
+| <strike> Tue, 30 April 2024 </strike>|  Early poster notification* |
+| <strike> Wed, 1 May 2024 </strike>|<strong>  Registration opens </strong>|
 | Tue, 18 June 2024|Poster-only submission deadline|
 | Wed, 26 June 2024| Talk acceptance notification |
 | Fri, 28 June 2024| Poster-only acceptance notification|

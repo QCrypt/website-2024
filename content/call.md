@@ -25,8 +25,8 @@ Our poster is now available! Please <a href="/poster">download and print it your
 |:----|:----|
 | <strike> April 2024 </strike>| <strong> TALK SUBMISSION NOW CLOSED </strong>|
 | <strike> Tue, 16 April 2024 </strike>|  Talk/Poster submission deadline |
-| Tue, 30 April 2024|  Early poster notification* |
-| Wed, 1 May 2024 |  Registration opens |
+| <strike> Tue, 30 April 2024 </strike>|  Early poster notification* |
+| <strike> Wed, 1 May 2024 </strike>|  Registration opens |
 | Tue, 18 June 2024|Poster-only submission deadline|
 | Wed, 26 June 2024| Talk acceptance notification |
 | Fri, 28 June 2024| Poster-only acceptance notification|
