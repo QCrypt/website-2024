@@ -14,7 +14,9 @@ menu:
     REGISTRATION IS NOW OPEN!
 </a>
 
-
+<a class="btn primary btn-lg" href="https://easychair.org/conferences/?conf=qcrypt2024">
+    POSTER-ONLY SUBMISSION IS NOW OPEN!
+</a>
 
 
 

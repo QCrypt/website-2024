@@ -14,6 +14,27 @@ menu:
 
 <strong>Regional airports</strong>. To travel to Vigo by air, there are three main airport options: Vigo-Peinador International Airport (VGO), Santiago–Rosalía de Castro Airport (SCQ), and Porto Francisco Sá Carneiro Airport (OPO). The nearest airport is Vigo-Peinador, but flights typically require a layover in Madrid or Barcelona. Alternatively, the airports in Santiago de Compostela and Porto offer better connectivity and more frequent transportation services to Vigo. From Santiago de Compostela, direct trains reach Vigo in approximately one hour. From Porto, various bus services are available, with journey times around two hours.
 
+1. Vigo-Peinador International Airport (VGO).
+
+From the Vigo-Peinador to the city center:
+Cab: +34 986 470 000, +34 986 123 123, +34 986 252 700
+Bus: Vitrasa, Line 9A.
+
+ 
+
+2. Santiago de Compostela–Rosalía de Castro Airport (SCQ).
+
+From Santiago de Compostela to Vigo:
+Bus: www.monbus.es
+Train: www.renfe.com
+
+ 
+
+3.    Porto Francisco Sá Carneiro Airport, Porto (OPO).
+
+From O Porto Airport to Vigo:
+www.alsa.es or www.autna.com
+
 
 ## Venue
 The venue for QCrypt2024 is the <a href="https://www.afundacion.org/es/centros/centro/centro_social_afundacion_vigo"> Sede Afundación Vigo</a>, 
