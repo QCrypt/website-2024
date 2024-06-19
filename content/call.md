@@ -27,7 +27,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 | <strike> Tue, 16 April 2024 </strike>|  Talk/Poster submission deadline |
 | <strike> Tue, 30 April 2024 </strike>|  Early poster notification* |
 | <strike> Wed, 1 May 2024 </strike>|  Registration opens |
-| Tue, 18 June 2024|Poster-only submission deadline|
+| <strike> Tue, 18 June 2024 </strike>|Poster-only submission deadline|
 | Wed, 26 June 2024| Talk acceptance notification |
 | Fri, 28 June 2024| Poster-only acceptance notification|
 | Fri, 5 July 2024| Early bird rate deadline|
@@ -69,8 +69,7 @@ The extended abstract may refer to technical details which are presented elsewhe
 
 <!-- The submission server will be open soon. -->
 <!--**The submission server will  re-open soon for POSTER ONLY submissions.**-->
-**The submission server for POSTER-ONLY submission is now available at: <a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">https://easychair.org/conferences/?conf=qcrypt2024</a>**
-
+**Submissions are now closed. Check your submissions at: <a href="https://easychair.org/conferences/?conf=qcrypt2024" target="_blank">https://easychair.org/conferences/?conf=qcrypt2024</a>**
 ## Student Paper Prize
 Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.
 

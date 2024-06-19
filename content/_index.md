@@ -14,9 +14,9 @@ menu:
     REGISTRATION IS NOW OPEN!
 </a>
 
-<a class="btn primary btn-lg" href="https://easychair.org/conferences/?conf=qcrypt2024">
+<!--<a class="btn primary btn-lg" href="https://easychair.org/conferences/?conf=qcrypt2024">
     POSTER-ONLY SUBMISSION IS NOW OPEN!
-</a>
+</a>-->
 
 
 
@@ -56,7 +56,7 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 | <strike> Tue, 16 April 2024 </strike>|  Talk/Poster submission deadline |
 | <strike> Tue, 30 April 2024 </strike>|  Early poster notification* |
 | <strike> Wed, 1 May 2024 </strike>|<strong>  Registration opens </strong>|
-| Tue, 18 June 2024|Poster-only submission deadline|
+| <strike> Tue, 18 June 2024 </strike>|Poster-only submission deadline|
 | Wed, 26 June 2024| Talk acceptance notification |
 | Fri, 28 June 2024| Poster-only acceptance notification|
 | Fri, 5 July 2024| Early bird rate deadline|
