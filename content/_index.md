@@ -57,7 +57,7 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 | <strike> Tue, 30 April 2024 </strike>|  Early poster notification* |
 | <strike> Wed, 1 May 2024 </strike>|<strong>  Registration opens </strong>|
 | <strike> Tue, 18 June 2024 </strike>|Poster-only submission deadline|
-| Wed, 26 June 2024| Talk acceptance notification |
+| <strike> Wed, 26 June 2024 </strike>| Talk acceptance notification |
 | Fri, 28 June 2024| Poster-only acceptance notification|
 | Fri, 5 July 2024| Early bird rate deadline|
 | Fri, 9 August 2024| Registration deadline|

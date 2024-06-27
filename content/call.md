@@ -28,7 +28,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 | <strike> Tue, 30 April 2024 </strike>|  Early poster notification* |
 | <strike> Wed, 1 May 2024 </strike>|  Registration opens |
 | <strike> Tue, 18 June 2024 </strike>|Poster-only submission deadline|
-| Wed, 26 June 2024| Talk acceptance notification |
+| <strike> Wed, 26 June 2024 </strike>| Talk acceptance notification |
 | Fri, 28 June 2024| Poster-only acceptance notification|
 | Fri, 5 July 2024| Early bird rate deadline|
 | Fri, 9 August 2024| Registration deadline|
