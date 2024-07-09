@@ -29,8 +29,8 @@ Our poster is now available! Please <a href="/poster">download and print it your
 | <strike> Wed, 1 May 2024 </strike>|  Registration opens |
 | <strike> Tue, 18 June 2024 </strike>|Poster-only submission deadline|
 | <strike> Wed, 26 June 2024 </strike>| Talk acceptance notification |
-| Fri, 28 June 2024| Poster-only acceptance notification|
-| Fri, 5 July 2024| Early bird rate deadline|
+| <strike> Fri, 28 June 2024 </strike>| Poster-only acceptance notification|
+| <strike> Fri, 5 July 2024 </strike>| Early bird rate deadline|
 | Fri, 9 August 2024| Registration deadline|
 |<strong>Mon, 2 - Fri, 6 Sept 2024 </strong>| <strong>QCrypt 2024</strong>|
 
