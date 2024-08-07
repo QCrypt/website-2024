@@ -73,7 +73,7 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 
 <!-- THE MAP -->
 {{% home-location
-    image="/images/backgrounds/afundation_venue.jpg"
+    image="/images/backgrounds/afundation_venue.png"
     address="Sede Afundación Vigo, Rúa Policarpo Sanz, 24, 26, Santiago de Vigo, 36202 Vigo, Pontevedra"
     latitude="42.237410"
     longitude="-8.722420"
