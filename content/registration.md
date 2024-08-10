@@ -8,14 +8,14 @@ menu:
         weight: 2
 ---
 
-## Registration for QCrypt 2024 is now open!
+## Onlin registration for QCrypt 2024 is now closed! See you in Vigo!
 QCrypt is the annual international scientific conference presenting the latest results in quantum cryptography. The 2024 conference will take place in Vigo at Sede Afundación. 
 
-<strong>To guarantee an optimal experience to all attendees the number of registrations is limited to 350. Register soon to be sure to participate!</strong>
+<!-- <strong>To guarantee an optimal experience to all attendees the number of registrations is limited to 350. Register soon to be sure to participate!</strong>
 
 {{< button-link label="Register" url="https://qcrypt.linckia.gal/" icon="link" target="_blank">}}<br>
 <a style="color: red"></a>
-
+-->
 In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="qcrypt2024@vqcc.uvigo.es" url="mailto:qcrypt2024@vqcc.uvigo.es " icon="email" >}}
 
 <!-- <strong>Missed the deadline? Contact {{< button-link label="2024@qcrypt.net" url="mailto:2024@qcrypt.net" icon="email" >}}</strong> -->
@@ -23,7 +23,7 @@ In case of questions or technical difficulties with the registration process, pl
 ### General Information
 The registration fees are as follows:
 
-|  Fees |  Early Bird  |  Regular  | Onsite |
+|  Fees |  Early Bird  |  Regular  | Only onsite registration |
 |:---------|:--------|:--------|:--------|
 ||  Until July 5.  |  Until Aug 9.   | From Aug 10 onwards.|
 |Student Registration | EUR€450 | EUR€550 | EUR€600 |

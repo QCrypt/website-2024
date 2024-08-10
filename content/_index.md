@@ -11,7 +11,7 @@ menu:
 
 
 <a class="btn primary btn-lg" href="/registration/">
-    REGISTRATION IS NOW OPEN!
+    ONLINE REGISTRATION IS NOW CLOSED!
 </a>
 
 <!--<a class="btn primary btn-lg" href="https://easychair.org/conferences/?conf=qcrypt2024">
