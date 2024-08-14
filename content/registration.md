@@ -18,7 +18,7 @@ QCrypt is the annual international scientific conference presenting the latest r
 -->
 In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="qcrypt2024@vqcc.uvigo.es" url="mailto:qcrypt2024@vqcc.uvigo.es " icon="email" >}}
 
-<!-- <strong>Missed the deadline? Contact {{< button-link label="2024@qcrypt.net" url="mailto:2024@qcrypt.net" icon="email" >}}</strong> -->
+<strong>Missed the deadline for online registration? Before planning a trip to Vigo to attempt onsite registration, please contact {{< button-link label="2024@qcrypt.net" url="mailto:2024@qcrypt.net" icon="email" >}} to confirm that spots are still available. </strong>
 
 ### General Information
 The registration fees are as follows:
