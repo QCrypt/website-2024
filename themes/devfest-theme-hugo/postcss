@@ -1270,8 +1270,7 @@ form input {
 .page.partners .header {
   display: grid;
   grid-template-columns: auto 1fr;
-  grid-template-areas: "logo title"
- "logo website";
+  grid-template-areas: "logo title" "logo website";
   align-items: center; }
   .page.partners .header .card {
     grid-area: logo;
