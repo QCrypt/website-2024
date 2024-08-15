@@ -30,7 +30,7 @@
     - session: __updates&announcements
       time: '09:00'
     - session: tutorial_lukens
-      time: '9:15'
+      time: '09:15'
     - session: invited_cao
       time: '10:30'
     - session: __coffee&snacks
@@ -57,7 +57,7 @@
     - session: __updates&announcements
       time: '09:00'
     - session: tutorial_brown
-      time: '9:15'
+      time: '09:15'
     - session: invited_ananth
       time: '10:30'
     - session: __coffee&snacks
