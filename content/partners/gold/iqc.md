@@ -1,5 +1,5 @@
 ---
-title: IDQuantique
+title: Institute of Quantum Computing
 type: partner
 draft: false
 category: gold

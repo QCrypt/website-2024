@@ -2,7 +2,8 @@
 title: "Contributed Talk 3"
 
 papers:
-- 10
+- 23
+- 20
 videoId: null
 presentation: null
 draft: false

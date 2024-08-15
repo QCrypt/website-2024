@@ -1,20 +1,15 @@
 ---
 title: Speakers
-draft: true
+draft: false
 type: speakers
 layout: list_with_header
 menu:
     main:
         weight: 40
 ---
-
+<!--
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-## Reception Speakers
-<!--Click on a speaker's name to read the title and abstract for their presentation.-->
-
-{{< speakers-reception >}}
-{{< /speakers-reception >}}
+-->
 
 ## Tutorial Speakers
 <!--Click on a speaker's name to read the title and abstract for their presentation.-->
@@ -28,17 +23,13 @@ menu:
 {{< speakers-invited >}}
 {{< /speakers-invited >}}
 
+<!--
 ## Industry Panel
-<!--Click on a speaker's name to read the title and abstract for their presentation.-->
 
 {{< speakers-industry >}}
 {{< /speakers-industry >}}
+-->
 
-## Discussion Panel
-<!--Click on a speaker's name to read the title and abstract for their presentation.-->
-
-{{< speakers-discussion >}}
-{{< /speakers-discussion >}}
 
 <!-- ## Industry Session -->
 <!--Click on a speaker's name to read their bio.-->

@@ -1,8 +1,10 @@
 ---
-title: "Contributed Talks 1c: Theory Talks"
+title: "Contributed Talks 1c"
 papers:
-- 57
-- 41
+- 91
+- 47
+- 74
+- 31
 videoId: null
 presentation: null
 draft: false

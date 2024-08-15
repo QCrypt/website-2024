@@ -1,10 +1,9 @@
 ---
-title: "Contributed Talks 2c: QKD Implementation"
+title: "Contributed Talks 2c"
 
 papers:
-- 7
-- 31
-- 14
+- 129
+- 76
 videoId: null
 presentation: null
 draft: false

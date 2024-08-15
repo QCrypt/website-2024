@@ -1,9 +1,9 @@
 ---
 title: Closing Remarks
 format: 
+tags: 
+- other
 speakers:
-- slattery
-- alagic
 videoId: null
 videoTime: null
 presentation: null

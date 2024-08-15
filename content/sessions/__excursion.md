@@ -1,5 +1,5 @@
 ---
-title: 'Tours and Excursions (click for more details)'
+title: 'Lab Tours and Excursions (click for more details)'
 format: 
 tags:
   - other
@@ -8,6 +8,9 @@ presentation: null
 draft: false
 ---
 
+<strong>TBA</strong>
+
+<!--
 The afternoon of Wednesday, August 16th is free time. The conference organizers have arranged optional tours, all of which <strong>depart from or start in College Park at 2 p.m.</strong> Seats are limited and sign-up is required at registration.
 
 <ol>
@@ -30,3 +33,4 @@ The afternoon of Wednesday, August 16th is free time. The conference organizers 
 <dd><a href="https://jqi.umd.edu/">JQI</a> is a world-class research institute at UMD that brings together leading quantum scientists from the University of Maryland, the National Institute of Standards and Technology, and the Laboratory for Physical Sciences. Each institution brings major experimental and theoretical research programs that are dedicated to controlling and exploiting quantum systems.  This tour is limited to 24 participants and will meet at the <a href="https://www.google.com/maps/place/224+Stadium+Dr,+College+Park,+MD+20742/@38.9905754,-76.9422817,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c69861eb47a9:0x2cca72da3d1bfbee!8m2!3d38.9905754!4d-76.9422817?entry=ttu">Physical Sciences Complex</a> on Stadium Drive. Due to construction detours, this is a 10-15 minute walk from the Iribe Center.
 </dd></li>
 </ol>
+-->

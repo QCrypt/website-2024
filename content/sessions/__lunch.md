@@ -1,5 +1,5 @@
 ---
-title: 'Independent Lunch (click for guide)'
+title: 'Lunch'
 format: 
 tags:
   - break

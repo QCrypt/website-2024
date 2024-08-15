@@ -1,6 +1,6 @@
 ---
 title: Program
-draft: true
+draft: false
 type: speakers
 layout: list_with_header
 

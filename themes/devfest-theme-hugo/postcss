@@ -67,7 +67,7 @@
   --partner-gold-height: calc(var(--partner-support-height) * 3);
   --partner-silver-height: calc(var(--partner-support-height) * 2);
   --partner-bronze-height: calc(var(--partner-support-height) * 1.5);
-  --partner-maxi-height: calc(var(--partner-support-height) * 4);
+  --partner-maxi-height: calc(var(--partner-support-height) * 1.4);
   --animation: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   --extruded-dark: 1px 0 0 var(--darken-3);
   --extruded-light: 1px 0 0 var(--lighten-3);
@@ -695,12 +695,16 @@ a.social {
   flex-basis: 240px; }
 
 .partners-group.partner-community ul li {
-  height: var(--partner-community-height);
+  height: var(--partner-bronze-height);
+  flex-basis: 200px; }
+
+.partners-group.partner-exhibitors ul li {
+  height: var(--partner-bronze-height);
   flex-basis: 200px; }
 
 .partners-group.partner-maxi ul li {
   height: var(--partner-maxi-height);
-  flex-basis: 350px; }
+  flex-basis: 180px; }
 
 /* Partner fancy name */
 .partners-group .fancy {
@@ -751,7 +755,7 @@ a.social {
   color: var(--color-bronze); }
 
 .partners-group.partner-maxi .fancy {
-  font-size: 1.5em; }
+  font-size: 1.4em; }
 
 .tag-method-tools {
   background-color: var(--method-tools); }
@@ -1266,7 +1270,8 @@ form input {
 .page.partners .header {
   display: grid;
   grid-template-columns: auto 1fr;
-  grid-template-areas: "logo title" "logo website";
+  grid-template-areas: "logo title"
+ "logo website";
   align-items: center; }
   .page.partners .header .card {
     grid-area: logo;

@@ -12,126 +12,102 @@
       time: '11:15'
     - session: invited_malavolta
       time: '11:45'
-    - session: contributed1
+    - session: contributed1a
       time: '12:30'
-    - session: contributed2
-      time: '12:50'
     - session: __lunch
       time: '13:10'
-    - session: contributed3
+    - session: contributed1b
       time: '14:40'
-    - session: contributed4
-      time: '15:00'
-    - session: contributed5
-      time: '15:20'
-    - session: contributed6
-      time: '15:40'
     - session: __break
       time: '16:00'
-    - session: contributed7
+    - session: contributed1c
       time: '16:30'
-    - session: contributed8
-      time: '16:50'
-    - session: contributed8
-      time: '16:50'
+    - session: __endofday
+      time: '17:10'
 
 - day: '2024-09-03'
   sessions:
-    - session: __coffee&snacks
-      time: '08:30'
     - session: __updates&announcements
-      time: '08:45'
-    - session: tutorial_ma
-      time: '9:00'
-    - session: invited_arnold
-      time: '10:15'
+      time: '09:00'
+    - session: tutorial_lukens
+      time: '9:15'
+    - session: invited_cao
+      time: '10:30'
     - session: __coffee&snacks
-      time: '11:00'
-    - session: invited_sax
-      time: '11:30'
+      time: '11:15'
+    - session: invited_brunner
+      time: '11:45'
     - session: contributed2a
-      time: '12:15'
+      time: '12:30'
     - session: __lunch
-      time: '12:35'
+      time: '13:10'
     - session: contributed2b
-      time: '14:00'
+      time: '14:40'
     - session: __break
-      time: '15:20'
+      time: '16:00'
     - session: contributed2c
-      time: '15:50'
-    - session: poster2
       time: '16:30'
-    - session: _public_discussion
-      time: '18:00'
-    - session: __walk_to_stamp
+    - session: poster
+      time: '16:30'
+    - session: _public_lecture
       time: '19:00'
-    - session: __endofday
-      time: '21:00'
 
 - day: '2024-09-04'
   sessions:
-    - session: __coffee&snacks
-      time: '08:30'
     - session: __updates&announcements
-      time: '08:45'
-    - session: tutorial_bartusek
-      time: '9:00'
-    - session: invited_kalai
-      time: '10:15'
+      time: '09:00'
+    - session: tutorial_brown
+      time: '9:15'
+    - session: invited_ananth
+      time: '10:30'
     - session: __coffee&snacks
-      time: '11:00'
-    - session: invited_zhou
-      time: '11:30'
+      time: '11:15'
+    - session: invited_may
+      time: '11:45'
     - session: contributed3
-      time: '12:15'
+      time: '12:30'
     - session: __lunch
-      time: '12:35'
+      time: '13:10'
     - session: __excursion
-      time: '14:00'
+      time: '15:30'
 
 
 - day: '2024-09-05'
   sessions:
-  sessions:
-    - session: __coffee&snacks
-      time: '08:30'
     - session: __updates&announcements
-      time: '08:45'
-    - session: industrial
-      time: '9:00'
-    - session: contributed4a
-      time: '10:40'
+      time: '09:00'
+    - session: tutorial_paraiso
+      time: '09:15'
+    - session: invited_diamanti
+      time: '10:30'
     - session: __coffee&snacks
-      time: '11:00'
-    - session: invited_liao
-      time: '11:30'
-    - session: contributed4b
-      time: '12:15'
+      time: '11:15'
+    - session: invited_bacco
+      time: '11:45'
+    - session: contributed4
+      time: '12:30'
     - session: __lunch
-      time: '12:35'
-    - session: contributed4c
-      time: '14:00'
+      time: '13:10'
+    - session: industrial
+      time: '14:40'
     - session: __coffee&snacks
-      time: '15:20'
-    - session: contributed4d
-      time: '15:50'
+      time: '16:20'
     - session: rump
-      time: '16:30'
+      time: '16:50'
     - session: business
-      time: '17:30'
-
+      time: '18:00'
+    - session: __dinner
+      time: '20:00'
 
 - day: '2024-09-06'
   sessions:
-    - session: __coffee&snacks
-      time: '08:30'
     - session: __updates&announcements
-      time: '08:45'
-    - session: contributed5a
       time: '09:00'
+    - session: contributed5a
+      time: '09:10'
     - session: __coffee&snacks
-      time: '11:00'
+      time: '10:50'
     - session: contributed5b
-      time: '11:30'
+      time: '11:20'
     - session: close
-      time: '12:30'
+      time: '13:10'

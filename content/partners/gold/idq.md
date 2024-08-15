@@ -1,5 +1,5 @@
 ---
-title: ZIDQuantique
+title: IDQuantique
 type: partner
 draft: false
 category: gold

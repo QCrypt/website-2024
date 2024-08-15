@@ -24,7 +24,7 @@ We are grateful to our generous sponsors. With their contributions, they not onl
 
 ## Our Sponsors
 
-{{% partners categories="gold,bronze" %}}
+{{% partners categories="gold,bronze,exhibitors" %}}
 
 {{% /partners %}}
 <!--

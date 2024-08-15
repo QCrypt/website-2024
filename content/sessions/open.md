@@ -1,9 +1,9 @@
 ---
 title: Opening
 format: 
+tags:
+- other
 speakers:
-- Pines
-- Romine
 videoId: null
 presentation: null
 draft: false
