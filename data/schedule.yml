@@ -23,7 +23,7 @@
     - session: contributed1c
       time: '16:30'
     - session: __endofday
-      time: '17:10'
+      time: '17:50'
 
 - day: '2024-09-03'
   sessions:
@@ -48,7 +48,7 @@
     - session: contributed2c
       time: '16:30'
     - session: poster
-      time: '16:30'
+      time: '17:10'
     - session: _public_lecture
       time: '19:00'
 

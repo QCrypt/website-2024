@@ -4,6 +4,6 @@ name: Corey McClelland
 surname: McClelland
 company: Qubitekk
 photoURL: /images/speakers/McClelland.jpg
-type: industry
+type: cancelled
 website: '/sessions/industry_mcclelland'
 ---
