@@ -13,7 +13,6 @@ draft: false
 The 13th anniversary edition of the conference, QCrypt 2024, will take place in University of Maryland, College Park, Maryland, USA on August 14-18, 2024. The conference is expected to host between 300 and 400 researchers and scientists from the leading international academic research groups and engineers and industry representatives from international companies; all of which are interested in quantum cryptography as a practical technology and in the security of cryptographic schemes under quantum attacks.
 
 
-
 We are grateful to our generous sponsors. With their contributions, they not only support this conference series but the field of quantum cryptography in general. -->
 
 
