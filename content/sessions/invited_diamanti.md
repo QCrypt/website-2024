@@ -1,5 +1,5 @@
 ---
-title: "Invited Talk"
+title: "Invited Talk: ''Practical secure communication with quantum continuous variables''"
 speakers:
   - diamanti
 presentation: null

@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Talk: ''Recent advance in photonic integration for QKD''"
+title: "Tutorial Talk: ''Monolithic and Hybrid Integration Technologies for Quantum Cryptography''"
 speakers:
   - paraiso
 presentation: null
