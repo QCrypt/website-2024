@@ -70,7 +70,6 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
 {{% /home-tickets %}}
 
 
-
 <!-- THE MAP -->
 {{% home-location
     image="/images/backgrounds/afundation_venue.png"

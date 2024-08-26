@@ -4,5 +4,5 @@ type: partner
 draft: false
 category: exhibitors
 logo: /images/partners/fragmentix.png
-website: https://fragmentix.com/it/
+website: https://fragmentix.com/
 ---

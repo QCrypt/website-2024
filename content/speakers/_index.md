@@ -23,7 +23,6 @@ menu:
 {{< speakers-invited >}}
 {{< /speakers-invited >}}
 
-
 ## Industry Panel
 
 {{< speakers-industry >}}
