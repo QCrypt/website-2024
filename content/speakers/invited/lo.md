@@ -1,6 +1,6 @@
 ---
 key: lo
-name: Hoi Kwong Lo
+name: Hoi-Kwong Lo
 surname: 
 company: University of Toronto
 photoURL: /images/speakers/lo.jpg

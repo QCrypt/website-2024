@@ -33,7 +33,7 @@
       time: '09:15'
     - session: invited_cao
       time: '10:30'
-    - session: __coffee&snacks
+    - session: __break
       time: '11:15'
     - session: invited_brunner
       time: '11:45'
@@ -60,7 +60,7 @@
       time: '09:15'
     - session: invited_ananth
       time: '10:30'
-    - session: __coffee&snacks
+    - session: __break
       time: '11:15'
     - session: invited_may
       time: '11:45'
@@ -80,7 +80,7 @@
       time: '09:15'
     - session: invited_diamanti
       time: '10:30'
-    - session: __coffee&snacks
+    - session: __break
       time: '11:15'
     - session: invited_bacco
       time: '11:45'
@@ -90,7 +90,7 @@
       time: '13:10'
     - session: industrial
       time: '14:40'
-    - session: __coffee&snacks
+    - session: __break
       time: '16:20'
     - session: rump
       time: '16:50'
@@ -105,7 +105,7 @@
       time: '09:00'
     - session: contributed5a
       time: '09:10'
-    - session: __coffee&snacks
+    - session: __break
       time: '10:50'
     - session: contributed5b
       time: '11:20'

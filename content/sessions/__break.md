@@ -1,5 +1,5 @@
 ---
-title: 'Break'
+title: 'Coffee Break'
 format: 
 tags:
   - break

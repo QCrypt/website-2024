@@ -1,6 +1,6 @@
 ---
 key: lukens
-name: Joe Lukens
+name: Joseph Lukens
 surname: Lukens
 company: Arizona State University
 photoURL: /images/speakers/lukens.png
