@@ -22,8 +22,8 @@
       time: '16:00'
     - session: contributed1c
       time: '16:30'
-    - session: __endofday
-      time: '17:50'
+    - session: __reception
+      time: '19:00'
 
 - day: '2024-09-03'
   sessions:

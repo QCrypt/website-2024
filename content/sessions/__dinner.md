@@ -1,5 +1,5 @@
 ---
-title: 'Dinner + networking'
+title: 'Gala Dinner and Networking at Pazo los Escudos Hotel'
 format: 
 tags:
   - other

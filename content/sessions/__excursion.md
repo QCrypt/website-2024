@@ -1,5 +1,5 @@
 ---
-title: 'Lab Tours and Excursions (click for more details)'
+title: 'Lab Tour and Excursion to Cíes Islands (click for more details)'
 format: 
 tags:
   - other

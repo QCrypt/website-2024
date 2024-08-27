@@ -1,5 +1,5 @@
 ---
-title: 'Dinner at Stamp Student Union '
+title: 'Welcome Reception at Palacio de la Oliva'
 format: 
 tags:
   - other
