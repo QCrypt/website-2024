@@ -1,6 +1,6 @@
 ---
 key: acin
-name: Anthony Acín
+name: Antonio Acín
 surname: Acín
 company: ICFO - The Institute of Photonic Sciences
 photoURL: /images/speakers/acin.jpg

@@ -79,7 +79,7 @@ QCrypt 2024 is the 14th edition of the yearly international scientific conferenc
     %}}
 
 ## The 2024 venue
-
+<strong>Organized by: University of Vigo</strong>
 {{% /home-location %}}
 
 
