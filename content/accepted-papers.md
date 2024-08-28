@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 type: text_page
-draft: true
+draft: false
 menu:
     main:
         weight: 10
@@ -18,14 +18,14 @@ menu:
 {{< papers-accepted >}}
 {{< /papers-accepted >}}
 
-
+<!--
 ## List of Accepted Posters
 
 (in order of submission)
 
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
-
+>
 <!--
 ## Best Student Paper Awards
 ### Theory

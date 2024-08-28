@@ -13,5 +13,5 @@ draft: false
 <!--
 ## Posters presented in this session
 
-{{< posters-accepted session="monday" >}}{{< /posters-accepted >}}
+{{< posters-accepted >}}{{< /posters-accepted >}}
 >
