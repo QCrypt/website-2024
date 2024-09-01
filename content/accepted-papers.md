@@ -18,14 +18,14 @@ menu:
 {{< papers-accepted >}}
 {{< /papers-accepted >}}
 
-<!--
+
 ## List of Accepted Posters
 
 (in order of submission)
 
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
->
+
 <!--
 ## Best Student Paper Awards
 ### Theory

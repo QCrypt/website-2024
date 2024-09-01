@@ -1,5 +1,5 @@
 ---
-title: 'Lunch'
+title: 'Lunch at sede Afundacion'
 format: 
 tags:
   - break

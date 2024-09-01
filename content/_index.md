@@ -10,8 +10,11 @@ menu:
 ## 2-6 September 2024
 
 
-<a class="btn primary btn-lg" href="/registration/">
-    ONLINE REGISTRATION IS NOW CLOSED!
+<a class="btn primary btn-lg" href="/accepted-papers/">
+    TALKS AND POSTERS INFOS NOW AVAILABLE
+</a>
+<a class="btn primary btn-lg" href="/sessions/__reception/">
+    WELCOME RECEPTION (MONDAY EVENING)
 </a>
 
 <!--<a class="btn primary btn-lg" href="https://easychair.org/conferences/?conf=qcrypt2024">
