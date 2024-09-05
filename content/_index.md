@@ -10,9 +10,7 @@ menu:
 ## 2-6 September 2024
 
 
-<a class="btn primary btn-lg" href="/sessions/__excursion/">
-    LAB TOURS AND EXCURSION -> NEW INFO
-</a>
+
 <a class="btn primary btn-lg" href="/sessions/__dinner/">
     GALA DINNER -> NEW INFO
 </a>

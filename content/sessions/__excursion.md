@@ -14,6 +14,8 @@ The afternoon of wednesday will consist of two possible afternoon activities.
 
 If you signed up for the lab tour, the bus will depart from the location indicated below (Rua Areal, towards the intersection with Rua Colón). The bus will leave at <strong>15:30</strong> and the trip to the lab will take 25 minutes. Once the lab tour is finished, the bus will bring us back to the city center.
 
+<img src="/images/places/group_lab.jpeg" alt="drawing" style="width:600px;"/>
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2092.560353738686!2d-8.721337637204241!3d42.239159768750014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDLCsDE0JzIxLjciTiA4wrA0MycxMi4wIlc!5e0!3m2!1sit!2ses!4v1725401232276!5m2!1sit!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <big><strong>EXCURSION TO CÍES ISLANDS</strong></big>

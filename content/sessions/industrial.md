@@ -8,6 +8,7 @@ speakers:
   - pacher
   - pegon
   - prawits
+  - avesani
 
 videoId: null
 presentation: null
@@ -18,6 +19,7 @@ The session is intended to provide a comprehensive view of the industry landscap
 * Quantum device manufacturers, considering the two main QKD technology trends: DV and CV, and featuring:
     * <strong>Jean-Sébastien Pegon </strong>(IDQ)
     * <strong>Vanesa Díaz </strong>(LuxQuanta)
+    * <strong>Marco Avesani</strong>(ThinkQuantum)    
 * Key management and crypto service provisioning, featuring:
     * <strong>Laura Ortiz </strong>(QoolNet)
 * Applications enabled by quantum crypto, featuring:
@@ -26,12 +28,4 @@ The session is intended to provide a comprehensive view of the industry landscap
     * <strong>Florian Prawits </strong>(AIT)
 
 Each participant will provide an overview of the status of their respective activities, and will participate in a panel discussion on the industrial landscape and the prospective for it in the coming years.
-
-
-
-
-
-
-
-
 

@@ -92,8 +92,10 @@
       time: '14:40'
     - session: __break
       time: '16:20'
-    - session: rump
+    - session: poster
       time: '16:50'
+    - session: rump
+      time: '17:45'
     - session: business
       time: '18:00'
     - session: __dinner
