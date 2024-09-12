@@ -11,8 +11,8 @@ menu:
 
 
 
-<a class="btn primary btn-lg" href="/sessions/__dinner/">
-    GALA DINNER -> NEW INFO
+<a class="btn primary btn-lg" href="pictures">
+    DOWNLOAD LINK FOR THE PHOTOS AVAILABLE
 </a>
 
 <!--<a class="btn primary btn-lg" href="https://easychair.org/conferences/?conf=qcrypt2024">
