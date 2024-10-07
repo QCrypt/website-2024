@@ -15,6 +15,10 @@ menu:
     DOWNLOAD LINK FOR THE PHOTOS AVAILABLE
 </a>
 
+<a class="btn primary btn-lg" href="2025">
+    The submission process for QCRYPT 2026 is now open
+</a>
+
 <!--<a class="btn primary btn-lg" href="https://easychair.org/conferences/?conf=qcrypt2024">
     POSTER-ONLY SUBMISSION IS NOW OPEN!
 </a>-->
